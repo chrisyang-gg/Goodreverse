@@ -1,2 +1,2 @@
-# GoodStrokes
-GoodStrokes - A reverse engineering tool that decodes Goodnotes timestamps
+# Goodreverse
+Goodreverse - A reverse engineering tool that decodes Goodnotes timestamps
